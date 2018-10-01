@@ -678,6 +678,12 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
+id button1
+id button2
+id button3
+id button4
+id button5
 id buttonPanel
 id center
 id center_horizontal
