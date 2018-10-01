@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.maelpillon.myapplication">
+=======
+    package="com.example.maelpillon.workshopb3">
+>>>>>>> dbdb90b1ae368e7dce0ce9f5dfc33d7637128fe5
 
     <application
         android:allowBackup="true"

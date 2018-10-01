@@ -3,7 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.maelpillon.myapplication"
+=======
+        applicationId "com.example.maelpillon.workshopb3"
+>>>>>>> dbdb90b1ae368e7dce0ce9f5dfc33d7637128fe5
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
