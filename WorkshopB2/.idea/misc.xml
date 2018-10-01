@@ -29,4 +29,10 @@
       </value>
     </option>
   </component>
+<<<<<<< HEAD:WorkshopB2/.idea/misc.xml
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+>>>>>>> a130db8096db29a0981a1f291bd9c04617ef16d3:WorkshopB2/.idea/misc.xml
 </project>
