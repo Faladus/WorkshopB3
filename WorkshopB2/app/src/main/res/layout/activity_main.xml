@@ -9,6 +9,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
         android:orientation="vertical">
 
         <Space
@@ -32,7 +34,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="25"
-                android:text="Button" />
+                android:text="Localisation de salle" />
 
             <Space
                 android:layout_width="0dp"
@@ -44,19 +46,19 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="25"
-                android:text="Button" />
+                android:text="Lieux importants" />
 
             <Space
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="5"/>
+                android:layout_weight="5" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="25"
-                android:text="Button" />
+                android:text="Ecoles et formations" />
 
             <Space
                 android:layout_width="0dp"
@@ -72,8 +74,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:orientation="horizontal"
-            android:layout_weight="40">
+            android:layout_weight="40"
+            android:orientation="horizontal">
 
             <Space
                 android:layout_width="0dp"
@@ -85,7 +87,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="25"
-                android:text="Button" />
+                android:text="Accessibilité" />
 
             <Space
                 android:layout_width="0dp"
@@ -97,7 +99,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="25"
-                android:text="Button" />
+                android:text="Evenements" />
 
             <Space
                 android:layout_width="0dp"
@@ -109,7 +111,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="25"
-                android:text="Button" />
+                android:text="Restauration et loisirs" />
 
             <Space
                 android:layout_width="0dp"

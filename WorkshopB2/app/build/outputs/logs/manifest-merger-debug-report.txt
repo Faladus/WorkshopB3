@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a872283259720eb3fbeac019b23bc57a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a642901138e931eb6c5452bd490f168b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\44e6520d5a09cd714b557b981ea6fbc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1cc1ce05c097dde0c303d44ae7c69cc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2edda6d9ea807a6a5c2ab0f057315d8e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b199c255de32215930ef54a942fdb928\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2ec5363a06692a05aad4c93ce76704fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\65b9c2bc36209cdc316a72ff3c5c5daa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c311ce2dbf469b9d90b7c793795b350d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52356d671f7ad1f69becac41b7c149ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\253f2b56bd685d8fbb9c1b7cb4072e0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b816465f84e3bb77e65249e27d46148a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a4b3bafce03897033ce203bfea3e1075\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b2cf26b0df51555fd85c5602efd62da9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89a0744369691b045f9db0cbbe9124a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eb1766d85a70127dc44b302dda223036\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\09556068dbd79b5f89cbf0fb1442c89f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\51358f82fe5aa749a9142fe9af99fc9b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\012bedb9bcb8984123af745d131c6655\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f7f73d88442c7dcbbd62acfce130b264\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05368fe55b568ed22f2e36c0f90c8b5f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9aefdc0758834f0ac64c6c0e5bd7572b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2f63347a81602b9a0d882e2fe61bf936\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f44a045c5e130976faa9f0d42e289876\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\22d1e19f03fe08a0b3bd0dd1afd6d16b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ce62cd8357dfd992d085600ac52c7819\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1b2ccb980450d1799abe00e923441268\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d13ce70ae45c464100f53093d6417b63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f8378b8a552ab5bcbbba352cda866ca9\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a642901138e931eb6c5452bd490f168b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a642901138e931eb6c5452bd490f168b\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2edda6d9ea807a6a5c2ab0f057315d8e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2edda6d9ea807a6a5c2ab0f057315d8e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b199c255de32215930ef54a942fdb928\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b199c255de32215930ef54a942fdb928\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\51358f82fe5aa749a9142fe9af99fc9b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\51358f82fe5aa749a9142fe9af99fc9b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\012bedb9bcb8984123af745d131c6655\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\012bedb9bcb8984123af745d131c6655\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\51358f82fe5aa749a9142fe9af99fc9b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.epsi.wkshop.workshopb2.MainActivity
+ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a872283259720eb3fbeac019b23bc57a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a872283259720eb3fbeac019b23bc57a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a642901138e931eb6c5452bd490f168b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a642901138e931eb6c5452bd490f168b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\44e6520d5a09cd714b557b981ea6fbc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\44e6520d5a09cd714b557b981ea6fbc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1cc1ce05c097dde0c303d44ae7c69cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1cc1ce05c097dde0c303d44ae7c69cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2edda6d9ea807a6a5c2ab0f057315d8e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\2edda6d9ea807a6a5c2ab0f057315d8e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b199c255de32215930ef54a942fdb928\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b199c255de32215930ef54a942fdb928\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2ec5363a06692a05aad4c93ce76704fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2ec5363a06692a05aad4c93ce76704fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\65b9c2bc36209cdc316a72ff3c5c5daa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\65b9c2bc36209cdc316a72ff3c5c5daa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c311ce2dbf469b9d90b7c793795b350d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c311ce2dbf469b9d90b7c793795b350d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52356d671f7ad1f69becac41b7c149ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\52356d671f7ad1f69becac41b7c149ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\253f2b56bd685d8fbb9c1b7cb4072e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\253f2b56bd685d8fbb9c1b7cb4072e0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b816465f84e3bb77e65249e27d46148a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b816465f84e3bb77e65249e27d46148a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a4b3bafce03897033ce203bfea3e1075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a4b3bafce03897033ce203bfea3e1075\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b2cf26b0df51555fd85c5602efd62da9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b2cf26b0df51555fd85c5602efd62da9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89a0744369691b045f9db0cbbe9124a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\89a0744369691b045f9db0cbbe9124a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eb1766d85a70127dc44b302dda223036\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\eb1766d85a70127dc44b302dda223036\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\09556068dbd79b5f89cbf0fb1442c89f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\09556068dbd79b5f89cbf0fb1442c89f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\51358f82fe5aa749a9142fe9af99fc9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\51358f82fe5aa749a9142fe9af99fc9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\012bedb9bcb8984123af745d131c6655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\012bedb9bcb8984123af745d131c6655\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f7f73d88442c7dcbbd62acfce130b264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f7f73d88442c7dcbbd62acfce130b264\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05368fe55b568ed22f2e36c0f90c8b5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\05368fe55b568ed22f2e36c0f90c8b5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9aefdc0758834f0ac64c6c0e5bd7572b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9aefdc0758834f0ac64c6c0e5bd7572b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2f63347a81602b9a0d882e2fe61bf936\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2f63347a81602b9a0d882e2fe61bf936\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f44a045c5e130976faa9f0d42e289876\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f44a045c5e130976faa9f0d42e289876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\22d1e19f03fe08a0b3bd0dd1afd6d16b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\22d1e19f03fe08a0b3bd0dd1afd6d16b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ce62cd8357dfd992d085600ac52c7819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ce62cd8357dfd992d085600ac52c7819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1b2ccb980450d1799abe00e923441268\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1b2ccb980450d1799abe00e923441268\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d13ce70ae45c464100f53093d6417b63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d13ce70ae45c464100f53093d6417b63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f8378b8a552ab5bcbbba352cda866ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f8378b8a552ab5bcbbba352cda866ca9\AndroidManifest.xml:20:5-44
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Mael Pillon\Document\GitHub\WorkshopB3\WorkshopB2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\29b36edf89f45b4502041bd3700363c4\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\175cf3be0cefe96638ce6b485f7b0df3\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8808ce23949346c5a503f98b2a1e2e63\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b199c255de32215930ef54a942fdb928\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b199c255de32215930ef54a942fdb928\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Mael Pillon\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fb002cbecd1f5fb520857af0279ab363\AndroidManifest.xml:27:13-51
