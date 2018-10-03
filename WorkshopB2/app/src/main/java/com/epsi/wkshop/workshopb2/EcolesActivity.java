@@ -62,4 +62,20 @@ public class EcolesActivity extends AppCompatActivity {
         else
             txt.setLayoutParams(new LinearLayout.LayoutParams(0, 0));
     }
+
+    protected void showCfa(View v){
+        TextView txt = findViewById(R.id.cfaText);
+        if(txt.getHeight() ==0)
+            txt.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+        else
+            txt.setLayoutParams(new LinearLayout.LayoutParams(0, 0));
+    }
+
+    protected void showEsail(View v){
+        TextView txt = findViewById(R.id.esailText);
+        if(txt.getHeight() ==0)
+            txt.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+        else
+            txt.setLayoutParams(new LinearLayout.LayoutParams(0, 0));
+    }
 }
