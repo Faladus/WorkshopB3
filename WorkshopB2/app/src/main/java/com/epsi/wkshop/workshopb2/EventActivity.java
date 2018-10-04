@@ -2,13 +2,7 @@ package com.epsi.wkshop.workshopb2;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import org.json.JSONObject;
-import java.io.BufferedReader;
-import java.io.DataOutputStream;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
+import android.webkit.WebView;
 
 public class EventActivity extends AppCompatActivity {
 
@@ -16,5 +10,8 @@ public class EventActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_event);
+
+        WebView myWebView = (WebView) findViewById(R.id.webview);
+        myWebView.loadUrl("http://robinbalmadier.freeboxos.fr/eventAppli.php");
     }
 }
